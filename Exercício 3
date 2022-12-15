@@ -1,0 +1,15 @@
+int main()
+{
+float conta, gorjetaPorcentagem, gorjeta;
+
+printf("\n Informe o valor da conta: ");
+ scanf("%f",&contaTotal);
+
+printf("\m Informe a porcentagem dada ao garçom em forma de gorjeta: ");
+ scanf("%f",&gorjetaPorcentagem);
+
+gorjeta = contaTotal * gorjetaPorcentagem/100;
+
+ printf("\n A gorjeta do garçom é=%.1f\n",gorjeta);
+return 0;
+}
