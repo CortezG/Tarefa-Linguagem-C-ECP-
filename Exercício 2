@@ -7,6 +7,7 @@ scanf("%f",&salarioInicial);
 
 novoSalario = salarioInicial * 11/10
 
+
 printf("\n seu novo salário é=%.1f\n",novoSalario);
 return0;
 }
