@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define MAX_NOME 100
+#define MAX_NOME 120
 #define MAX_EQUIPE 20
 #define MAX_INTEGRANTES 4
 
